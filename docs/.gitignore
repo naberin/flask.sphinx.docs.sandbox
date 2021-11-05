@@ -1,1 +1,4 @@
-environment
+environment/
+
+# python
+*.pyc
