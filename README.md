@@ -10,7 +10,7 @@ sphinx-apidoc -o source/ ../backend/
 To build / rebuild the documentation
 ```bash
 # without make
-sphinx-build source/ build/
+sphinx-build source/ docs/
 
 # with make
 make clean build
