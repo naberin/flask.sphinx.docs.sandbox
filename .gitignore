@@ -1,6 +1,6 @@
 # IDE, OS, ENV
 .idea
-
+environment/
 
 # Python
 __pycache__
