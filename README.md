@@ -4,7 +4,7 @@
 To add new Sphinx source files using the autodoc extension
 ```bash
 # output to <source>
-sphinx-autodoc -o source/ ../backend/
+sphinx-apidoc -o source/ ../backend/
 ```
 
 To build / rebuild the documentation
