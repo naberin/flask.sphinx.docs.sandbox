@@ -1,15 +1,15 @@
-
 Welcome to The Documentation!
 =============================================
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 2
 
-
+   introduction.md
+   apis.md
+   tasks.md
 
 Indices and tables
 ==================
 
 * :ref:`genindex`
 * :ref:`modindex`
-* :ref:`search`
