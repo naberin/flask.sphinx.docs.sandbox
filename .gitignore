@@ -4,3 +4,6 @@ environment/
 
 # Python
 __pycache__
+
+# sphinx output (temporary)
+docs/
