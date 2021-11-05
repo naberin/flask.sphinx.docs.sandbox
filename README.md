@@ -30,4 +30,4 @@ The backend code built with Flask [[go]](./backend/README.md)
 ## Getting more help
 - [Official Sphinx Documentation](https://www.sphinx-doc.org/en/master/contents.html)
 - [Markdown Support with MyST](https://myst-parser.readthedocs.io/en/latest/sphinx/intro.html#)
-
+- [Read the Docs Theme](https://github.com/readthedocs/sphinx_rtd_theme)
